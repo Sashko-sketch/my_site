@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skullgirls</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <a id="start"></a>
+    <h1>Skullgirls</h1>
+    <p><br><img src="images/4b6794d0670efe361163845a71db796e.png" width="220" height="200"></p>
+    <p>Skullgirls - это интересный 2d файтинг, с множеством разных персонажей, историй, приемов и комбо. У каждого из персонажей разная техника ударов, а всего персонажей 340. Давайте узнаем о некоторых из них!</p>
+    <h2>Топ 5 МОИХ любимых персонажей:</h2>
+    <ol>
+        <li>Umbrella.
+        </li>
+        <iframe src="https://www.youtube.com/embed/jxddgpJtgCE" controls>Видео не поддерживается браузером.
+            width="560"
+            height="315"
+            frameborder="0"
+            allowfullscreen
+        </iframe>
+        <li>Black Dahlia.</li>
+        <iframe src="https://youtube.com/embed/QH1GVCoCHNo" controls>
+            width= "560"
+            height= "315"
+            frameborder= "0"
+            allowfullscreen
+        </iframe>
+        <li>Annie.</li>
+        <li>Painwheel.</li>
+        <li>Squigly.</li>
+    </ol>
+    <h2>Узнай больше!</h2>
+    <p>Хотите узнать больше об игре? Тогда переходите по этой ссылке</p>
+    <ul>
+        <li><a href="https://skullgirls.fandom.com/ru/wiki/Skullgirls_(%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80%D0%B0)">Skullgirls</a></li>
+    </ul>
+    <a href="./test.html">внутренняя ссылка</a>
+    <a href="#start">вернуться в начало</a>
+</body>
+</html>
